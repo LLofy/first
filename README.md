@@ -1,2 +1,2 @@
 # first
-A simple projetc made in vue.js
+A simple project made in vue.js
